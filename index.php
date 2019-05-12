@@ -1,6 +1,5 @@
 <?php 
 
-
 // MySQLi or PDO
 //MySqli
  
