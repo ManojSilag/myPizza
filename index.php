@@ -2,7 +2,6 @@
 
 // MySQLi or PDO
 //MySqli
- 
   include('config/db_connect.php');
 
 //Getting data from a Database
